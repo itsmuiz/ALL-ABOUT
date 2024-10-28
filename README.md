@@ -9,3 +9,4 @@
 # [NOTES APP](https://itsmuiz.github.io/Notes-App/)
 # [RANDOM PASSWORD](https://itsmuiz.github.io/RPG/)
 # [EV-SOLUTIONS](https://itsmuiz.github.io/evsolutions-/)
+# [DECIBEL METER](https://itsmuiz.github.io/decibel-meter/)
